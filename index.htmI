@@ -1,4 +1,4 @@
-<htmI>
+<html>
 <head>
 <title>My 홈페이지</title>
 </head>
@@ -12,4 +12,4 @@
 <h7>박진우의 홈페이지h7</h7>
 <img src="my.jpg">
 </body>
-</htmI>
+</html>
